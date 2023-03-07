@@ -1,0 +1,68 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+}
+
+/*Nav*/
+nav{
+    background-color: cornflowerblue;
+    width:73%;
+    padding:1%;
+    }
+
+.logo{
+    width: 23%;
+    padding:1%;
+    text-align: center;
+}
+
+ul{
+    width:50%;
+    margin-left: auto;
+}
+
+nav li{
+    font-family: 'outfit', sans-serif;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+/*Hero*/
+.heroImg{
+    height: 600px;
+    padding:25px;
+}
+
+.content{
+    width: 500px;
+    margin:0 auto;
+    padding:25px;
+}
+
+h1,p{
+    font-family: 'outfit', sans-serif;
+}
+
+
+/*footer*/
+footer{
+    background-color:#373738;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer ul{
+    color: white;
+}
+
+.footer ul{
+    display:inline-block;
+    vertical-align:top;
+    padding: center;
+}
+
+footer li{
+    font-family: 'outfit', sans-serif;
+    padding-left: 10px;
+    padding-right:10px;
+}
